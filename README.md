@@ -8,7 +8,7 @@ The Uniqueness Test is a simple test developed using React to determine the uniq
 
 ### Option 1
 
-The Uniqueness Test is hosted on GitHub pages. Follow this [link](https://trungvu08.github.io/uniquenesstest/) to take the test.
+The Uniqueness Test is hosted on GitHub pages. Follow this [link](https://thvu02.github.io/uniquenesstest/) to take the test.
 
 ### Option 2
 
@@ -16,7 +16,7 @@ You can also play the Uniqueness Test by cloning this repository and running the
 
 1. have [Git](https://git-scm.com/downloads) and [Node.js](https://nodejs.org/en) installed on your device
 3. open the command line
-4. `git clone https://github.com/trungvu08/uniquenesstest`
+4. `git clone https://github.com/thvu02/uniquenesstest`
 5. `cd uniquenesstest`
 6. `npm install`
 7. `npm start`
